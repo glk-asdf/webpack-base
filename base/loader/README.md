@@ -1,6 +1,7 @@
 # loader
 
-> loader 用于对模块的代码进行转换   
+> webpack 只能理解 javascript 和 json 文件，这是 webpack 开箱即用的能力   
+  loader 用于对模块的代码进行转换   
   在 import 或 "load(加载)" 模块时，预处理文件。类似于其他构建工具的 task （任务）
 
 * 可以将 Typescript 转为 javascript  
@@ -19,22 +20,27 @@
 
     * wepack.config.js
     
-    ~~~
-    module.exports = {
-        module: {
-            rules: [
-                {
-                    test: /\.css$/,
-                    use: 'css-loader'
-                },
-                {
-                    test: /\.ts$/,
-                    use: 'ts-loader'
-                }
-            ]
+        ~~~
+        module.exports = {
+            module: {
+                rules: [
+                    {
+                        // 识别出那些属性会被转换
+                        test: /\.css$/,
+                        // 在进行转换时，使用的 loader
+                        use: 'css-loader'
+                    },
+                    {
+                        test: /\.ts$/,
+                        use: 'ts-loader'
+                    }
+                ]
+            }
         }
-    }
-    ~~~
+        ~~~
+        * /\.css$/ 与 '/\.css$/'（或 "/\.css$/"）不同  
+          前者表示 .css 结尾  
+          后者表示名为 .css
 
 ## 使用 loader 的方式
 

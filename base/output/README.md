@@ -1,6 +1,7 @@
 # output
 
-> 通过 output 告诉 webpack 如何向硬盘写入编译文件  
+> 通过 output 告诉 webpack 如何向硬盘写入编译文件（在哪里写入 bundle，以及如何命名）     
+  输出文件的默认值是 ./dist/main.js ，其他文件默认放置在 ./dist/ 下面
   即使存在多个 entry 起点，但只能指定一个 output 配置
   
 * webpack.config.js

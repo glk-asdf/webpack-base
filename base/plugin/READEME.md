@@ -1,7 +1,7 @@
 # plugin
 
 > plugin 是 webpack 的支柱功能。webpack 自身也是构建于你在 webpack 配置中用到的[相同的插件系统]之上    
-  插件的目的在于解决 loader 无法实现的其他事
+  插件的目的在于解决 loader 无法实现的其他事，包括：打包优化；资源管理；注入环境变量；
 
 ## 剖析
 
@@ -55,6 +55,7 @@
         ]
     }
     ~~~
+    * html-webpack-plugin 为应用程序生成一个 html 文件，并自动注入所有的 bundle
 
 ## Node API 方式
 

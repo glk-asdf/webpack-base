@@ -5,14 +5,6 @@
 
 * 默认值是 ./src/index.js ，可以通过 entry 属性，指定一个或多个不同的入口起点
 
-* 兼容 ie 使用 babel-polyfill
-
-~~~
-module.exports = {
-    entry: [''babel-polyfill', './src/main.js']
-}
-~~~
-
 * 单个入口语法可扩展性弱，对象语法可扩展性强
 
 * 当使用插件生成入口时，你可以传递空对象 {} 给 entry
