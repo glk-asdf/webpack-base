@@ -41,9 +41,6 @@ npm install webpack<tagname/branchname> --save-dev
   webpack --config webpack.config.js
 ~~~
 
-* 入口 entry
-* 出口 output
-
 ## 配置可扩展
 
 > 配置可以重复使用，也可以组合使用  
@@ -64,7 +61,7 @@ NODE_ENV: '"development"'
   polyfill 是用在 浏览器(browser) api 的 shimming    
   shimming 是一个库(library)，将一个新的 api 引入到旧的环境，仅靠旧的环境已有手段实现
 
-* 兼容 ie 使用 babel-polyfill
+* 兼容 ie9 使用 babel-polyfill
 
 ~~~
 module.exports = {
