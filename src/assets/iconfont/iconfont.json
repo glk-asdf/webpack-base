@@ -1,0 +1,261 @@
+{
+  "id": "1750393",
+  "name": "秦皇岛",
+  "font_family": "iconfont",
+  "css_prefix_text": "some-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15783330",
+      "name": "空气站",
+      "font_class": "huaban",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "15630257",
+      "name": "车流量",
+      "font_class": "cheliuliang1",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "15538560",
+      "name": "多边形",
+      "font_class": "duobianxing",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "15538561",
+      "name": "园",
+      "font_class": "yuan",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "14900143",
+      "name": "多",
+      "font_class": "duo",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "14852272",
+      "name": "噪音",
+      "font_class": "zaoyin",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "14281433",
+      "name": "扬尘",
+      "font_class": "yangchen",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "14267658",
+      "name": "移动",
+      "font_class": "yidong",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "14267659",
+      "name": "工业",
+      "font_class": "gongye",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "14035351",
+      "name": "省控",
+      "font_class": "shengkong",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "14035352",
+      "name": "国控",
+      "font_class": "guokong",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "14035353",
+      "name": "小型",
+      "font_class": "xiaoxing",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "14035354",
+      "name": "VOCs",
+      "font_class": "VOCs",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "14035356",
+      "name": "尾气",
+      "font_class": "weiqi",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "14035357",
+      "name": "渣土车",
+      "font_class": "zhatuche",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "14035358",
+      "name": "工地",
+      "font_class": "gongdi",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "14035361",
+      "name": "废气",
+      "font_class": "feiqi",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "14035362",
+      "name": "用车大户",
+      "font_class": "yongchedahu",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "14035363",
+      "name": "秸秆禁烧",
+      "font_class": "jieganjinshao",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "14035364",
+      "name": "风场",
+      "font_class": "fengchang",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "14035365",
+      "name": "料堆",
+      "font_class": "liaodui",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "14035366",
+      "name": "废水",
+      "font_class": "feishui",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "14035410",
+      "name": "温度",
+      "font_class": "wendu",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "14035411",
+      "name": "湿度",
+      "font_class": "shidu",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "14035412",
+      "name": "气压",
+      "font_class": "qiya",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "14035417",
+      "name": "vocs小",
+      "font_class": "vocsxiao",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "14035418",
+      "name": "尾气小",
+      "font_class": "weiqixiao",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "14035419",
+      "name": "废水小",
+      "font_class": "feishuixiao",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "14035422",
+      "name": "料堆小",
+      "font_class": "liaoduixiao",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "14035423",
+      "name": "用车大户小",
+      "font_class": "yongchedahuxiao",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "14035424",
+      "name": "工地小",
+      "font_class": "gongdixiao",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "14035428",
+      "name": "空气质量",
+      "font_class": "kongqizhiliang",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "14035429",
+      "name": "秸秆禁烧小",
+      "font_class": "jieganjinshaoxiao",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "14035430",
+      "name": "断面水质",
+      "font_class": "duanmianshuizhi",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "14035434",
+      "name": "渣土车小",
+      "font_class": "zhatuchexiao",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "14035456",
+      "name": "废气小",
+      "font_class": "feiqixiao",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    }
+  ]
+}

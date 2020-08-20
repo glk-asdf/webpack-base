@@ -1,3 +1,35 @@
+# webpack 示例
+
+## 打包
+
+* 直接调用 webpack ，使用的是全局安装的 webpack
+    ~~~
+    webpack --config webpack.config.js
+    ~~~
+
+* 直接调用 node_modules 里的 webpack
+    ~~~
+    // mac
+    ./node_modules/.bin/webpack --config webpack.config.js
+    // window
+    .\node_modules\.bin\webpack --config webpack.config.js
+    ~~~
+
+* 使用 npx 调用 node_modules 里的 webpack
+    ~~~
+    npx webpack --config webpack.config.js
+    ~~~
+
+* 使用 package.js 的 script 调用 node_modules 里的 webpack
+    ~~~
+    npm run build
+    ~~~
+    > 通过在 npm run build 命令和你的参数之间添加两个中横线，可以将自定义参数传递给 webpack，例如：
+    ~~~
+    npm run build -- --colors
+    ~~~
+
+
 # webpack-base
 
 > webpack 是 javascript 应用程序的静态模块打包工具    

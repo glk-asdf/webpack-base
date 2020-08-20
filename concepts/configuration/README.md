@@ -3,7 +3,7 @@
 > webpack 配置文件是 javascript 文件，文件导出-个 webpack 配置的对象  
   webpack 会根据配置的属性进行处理
 
-* 在命令行中使用 --config 指定配置文件
+* 在命令行中使用 --config 指定配置文件（没有 --config 时，webpack 会默认选择使用 webpack.config.js）
     ~~~
     webpack --config webpack.config.js
     ~~~
